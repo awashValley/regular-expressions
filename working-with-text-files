@@ -1,0 +1,3 @@
+## Quickly find any text string in any set of files
+## - SOURCE: http://hints.macworld.com/article.php?story=20001105214242629
+> grep -l "text2FIND" *.bib
